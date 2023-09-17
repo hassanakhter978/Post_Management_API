@@ -46,11 +46,11 @@ In this assignment, the objective is to develop a Django project titled "Post Ma
 * Install uritemplate:
 
         $ pip install uritemplate
+  
 
 * Install Django Swagger module:
 
-
-    $ pip install django-rest-swagger
+      $ pip install django-rest-swagger
     
 
 * Make those migrations work:
