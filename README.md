@@ -35,6 +35,19 @@ In this assignment, the objective is to develop a Django project titled "Post Ma
   
          $ pip install -r requirements.txt
 
+* Install PyYAML :
+
+        $pip install pyyaml
+
+* Install uritemplate:
+
+        $ pip install uritemplate
+
+* Install Django Swagger module:
+
+    $ pip install django-rest-swagger
+    
+
 * Make those migrations work:
 
   
@@ -47,3 +60,10 @@ In this assignment, the objective is to develop a Django project titled "Post Ma
 * You can now access the file api service on your browser by using
 
         $ http://localhost:8000/api/posts/
+
+* The schema will now be found at:
+
+        $ http://http//127.0.0.1:8000/api_schema
+
+* API docs will now be found at:
+        $ http://127.0.0.1:8000/docs/
