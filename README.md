@@ -21,10 +21,14 @@ In this assignment, the objective is to develop a Django project titled "Post Ma
 
 
          $  source./django env/bin/activate
+
+  
 * In your terminal navigate to an empty folder and install Django REST framework:
 
 
             $  pip install django_rest_framework
+
+  
 * Now for creating a new django app run this command:
 
 
@@ -44,6 +48,7 @@ In this assignment, the objective is to develop a Django project titled "Post Ma
         $ pip install uritemplate
 
 * Install Django Swagger module:
+
 
     $ pip install django-rest-swagger
     
