@@ -49,7 +49,6 @@ In this assignment, the objective is to develop a Django project titled "Post Ma
     
 
 * Make those migrations work:
-
   
         $ python manage.py migrate`
 
